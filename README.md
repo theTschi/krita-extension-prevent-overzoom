@@ -1,2 +1,2 @@
-# krita-extension-prevent-overzoom
-Zoom function for Krita that does not zoom over 100%.
+# Prevent overzoom
+Zoom function for krita that does not zoom over 100%.
