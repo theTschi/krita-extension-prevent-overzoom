@@ -24,7 +24,7 @@ MAX = 1
 
 g_shortcut_pressed = False
 
-class mdiArea(QMdiArea):
+class MdiArea(QMdiArea):
     def __init__(self, parent=None):
         super().__init__(parent)
 
@@ -70,7 +70,7 @@ class PreventOverzoomExtension(Extension):
         self.c_prevent_overzoom = window.createAction(ACTION_NAME, ACTION_TITLE)
         self.c_prevent_overzoom.triggered.connect(self.trigger)
         self.c_prevent_overzoom.setAutoRepeat(False)
-        self.mdiArea = mdiArea()
+        self.mdiArea = MdiArea()
 
 def register_extension():
     krita_app = Krita.instance()
