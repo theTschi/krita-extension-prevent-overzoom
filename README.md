@@ -9,15 +9,15 @@ Zoom function for [krita](https://link-url-here.org) that does not zoom over 100
 Download the latest version [here](https://github.com/theTschi/krita-extension-prevent-overzoom/releases).
 
 ### Installation
-Open krita and go to "Tools > Scripts > Import Python Plugin from File..."
-![demo_open](./docs/import_plugin.jpg)
+Open krita and go to "Tools > Scripts > Import Python Plugin from File..."\
+![demo_open](./docs/import_plugin.jpg)\
 and then select the downloaded zip file.
 
 ### Remap shortcut
 If the plugin does not work out of the box as it should, it might be a remapping problem.\
-To fix this open "Settings > Configure Krita"
-![demo_config](./docs/configure_krita.jpg)
-and then remap your normal zoom in shortcut to Prevent overzoom.
+To fix this open "Settings > Configure Krita"\
+![demo_config](./docs/configure_krita.jpg)\
+and then remap your normal zoom in shortcut to Prevent overzoom.\
 ![demo_remap](./docs/remap_shortcut.jpg)
 
 ## Credits
