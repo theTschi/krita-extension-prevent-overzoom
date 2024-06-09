@@ -1,7 +1,7 @@
 ![logo](./docs/prevent_overzoom_logo.png)
 
 ## Description
-Zoom function for [krita](https://link-url-here.org) that does not zoom over 100%.
+Zoom function for [krita](https://krita.org) that does not zoom over 100%.
 
 ## Installation
 
@@ -21,11 +21,11 @@ and then remap your normal zoom in shortcut to Prevent overzoom.\
 ![demo_remap](./docs/remap_shortcut.jpg)
 
 ## Credits
-[HMagellanLinux](https://www.youtube.com/@hmagellanlinux307)\
-For his youtube channel. His videos helped me to start with this extension.\
-[viksl](https://github.com/viksl)\
-For his krita-plugin-custom-canvas-rotation code as a starting point.\
-[nickgeneratorfailed](https://krita-artists.org/u/nickgeneratorfailed/summary) and [EyeOdin](https://krita-artists.org/u/EyeOdin/summary)\
+* [HMagellanLinux](https://www.youtube.com/@hmagellanlinux307)..
+For his youtube channel. His videos helped me to start with this extension.
+* [viksl](https://github.com/viksl)..
+For his krita-plugin-custom-canvas-rotation code as a starting point.
+* [nickgeneratorfailed](https://krita-artists.org/u/nickgeneratorfailed/summary) and [EyeOdin](https://krita-artists.org/u/EyeOdin/summary)..
 For the [hint](https://krita-artists.org/t/canvas-class-what-does-zoomlevel-returns-compared-to-setzoomlevel-manual-link-inside/15702) to the factor depending on the resolution.
 
 ## License
