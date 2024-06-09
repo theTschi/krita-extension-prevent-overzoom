@@ -21,11 +21,11 @@ and then remap your normal zoom in shortcut to Prevent overzoom.\
 ![demo_remap](./docs/remap_shortcut.jpg)
 
 ## Credits
-* [HMagellanLinux](https://www.youtube.com/@hmagellanlinux307)..
+* [HMagellanLinux](https://www.youtube.com/@hmagellanlinux307)\
 For his youtube channel. His videos helped me to start with this extension.
-* [viksl](https://github.com/viksl)..
+* [viksl](https://github.com/viksl)\
 For his krita-plugin-custom-canvas-rotation code as a starting point.
-* [nickgeneratorfailed](https://krita-artists.org/u/nickgeneratorfailed/summary) and [EyeOdin](https://krita-artists.org/u/EyeOdin/summary)..
+* [nickgeneratorfailed](https://krita-artists.org/u/nickgeneratorfailed/summary) and [EyeOdin](https://krita-artists.org/u/EyeOdin/summary)\
 For the [hint](https://krita-artists.org/t/canvas-class-what-does-zoomlevel-returns-compared-to-setzoomlevel-manual-link-inside/15702) to the factor depending on the resolution.
 
 ## License
