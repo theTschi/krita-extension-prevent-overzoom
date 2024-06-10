@@ -4,6 +4,7 @@
 
 ## Description
 Zoom function for [krita](https://krita.org) that does not zoom over 100%.
+<br>
 
 <img align="left" src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/install.png" width="37" height="37"/>
 
@@ -26,6 +27,7 @@ To fix this open "Settings > Configure Krita"\
 and then remap your normal zoom in shortcut to Prevent overzoom.\
 \
 ![demo_remap](./docs/remap_shortcut.jpg)
+<br>
 
 <img align="left" src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/star.png" width="37" height="37"/>
 
@@ -36,6 +38,7 @@ For his youtube channel. His videos helped me to start with this extension.
 For his krita-plugin-custom-canvas-rotation code as a starting point.
 * [nickgeneratorfailed](https://krita-artists.org/u/nickgeneratorfailed/summary) and [EyeOdin](https://krita-artists.org/u/EyeOdin/summary)\
 For the [hint](https://krita-artists.org/t/canvas-class-what-does-zoomlevel-returns-compared-to-setzoomlevel-manual-link-inside/15702) to the factor depending on the resolution.
+<br>
 
 <img align="left" src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/license.png" width="37" height="37"/>
 
