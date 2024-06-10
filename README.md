@@ -1,4 +1,6 @@
-![logo](./docs/prevent_overzoom_logo.png)
+<p align="center">
+  <img src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/prevent_overzoom_logo.png">
+</p>
 
 <img align="left" src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/description.png" width="37" height="37"/>
 
