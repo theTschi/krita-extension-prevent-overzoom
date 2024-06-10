@@ -2,7 +2,7 @@
   <img src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/prevent_overzoom_logo.png">
 </p>
 <p align="center">
-  [ <a href="#description">Description</a> | <a href="#installation">Installation</a> | <a href="#credits">Credits</a> | <a href="#license">License</a> ]
+  [ <a href="#description">Description</a> | <a href="#installation">Installation</a> | <a href="#credits">Credits</a> | <a href="#help">Help</a> ]
   <br />
   <br />
 </p>
