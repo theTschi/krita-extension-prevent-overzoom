@@ -45,8 +45,3 @@ For his youtube channel. His videos helped me to start with this extension.
 For his krita-plugin-custom-canvas-rotation code as a starting point.
 * [nickgeneratorfailed](https://krita-artists.org/u/nickgeneratorfailed/summary) and [EyeOdin](https://krita-artists.org/u/EyeOdin/summary)\
 For the [hint](https://krita-artists.org/t/canvas-class-what-does-zoomlevel-returns-compared-to-setzoomlevel-manual-link-inside/15702) to the factor depending on the resolution.
-
-<img align="left" src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/license.png" width="37" height="37"/>
-
-## License
-Prevent overzoom as a whole is licensed under the GNU Public License, Version 3.
