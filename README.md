@@ -2,8 +2,7 @@
   <img src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/prevent_overzoom_logo.png">
 </p>
 <p align="center">
-  [ <a href="#description">Description</a> | <a href="https://github.com/theTschi/krita-extension-prevent-overzoom/edit/main/README.md#installation">Installation</a> | <a href="https://github.com/theTschi/krita-extension-prevent-overzoom/edit/main/README.md#credits">Credits</a> | <a href="https://github.com/theTschi/krita-extension-prevent-overzoom/edit/main/README.md#license">License</a> ]</p>
-<br>
+  [ <a href="#description">Description</a> | <a href="#installation">Installation</a> | <a href="#credits">Credits</a> | <a href="#license">License</a> ]</p>
 
 <img align="left" src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/description.png" width="37" height="37"/>
 
