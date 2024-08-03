@@ -49,4 +49,4 @@ For the [hint](https://krita-artists.org/t/canvas-class-what-does-zoomlevel-retu
 <img align="left" src="https://github.com/theTschi/krita-extension-prevent-overzoom/blob/main/docs/help.png" width="37" height="37"/>
 
 ## Help
-If you experience any problems or have some suggestions please let me know by opening an ![issue](https://github.com/theTschi/krita-extension-prevent-overzoom/issues/new/choose).
+If you experience any problems or have some suggestions please let me know by opening an [issue](https://github.com/theTschi/krita-extension-prevent-overzoom/issues/new/choose).
